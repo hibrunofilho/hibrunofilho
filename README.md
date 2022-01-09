@@ -8,5 +8,5 @@
 - Power Supply: EVGA 600W
 - WaterCooler: Cooler Master ML240L v2 RGB
 - Case: Corsair Carbide 175r
--SSD WD Blue SN550 500GB
--SSD WD Black SN750 1TB
+- SSD WD Blue SN550 500GB
+- SSD WD Black SN750 1TB
