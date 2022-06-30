@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Bruno
 - Owner of NaveProject (or rather I'm Nave! 🛸)
 - Visitors or Curiosities of my profile 🔽
-<p align="#">img src="https://profile-counter.glitch.me/hibrunofilho/count.svg" alt="visitor badge"/></p>
+<p align="left">img src="https://profile-counter.glitch.me/hibrunofilho/count.svg" alt="visitor badge"/></p>
 
 ## Setup
 - My Hackintosh config:
