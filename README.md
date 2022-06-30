@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Bruno
 - Owner of NaveProject (or rather I'm Nave! 🛸)
+
 ## Visitors or Curiosities of my profile
 <p align="left"><img src="https://profile-counter.glitch.me/hibrunofilho/count.svg" alt="visitor badge"/></p>
-(Thanks chris111 tips!)
 
-- 🖥 I'm going to use this GitHub account to post my Hackintosh projects
+## Setup
 - My Hackintosh config:
 - Processor: Xeon E5-2670v3 2,3GHz (12/24)
 - Motherboard: Huananzhi F8 X99
