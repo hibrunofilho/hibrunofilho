@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Bruno
 - Owner of NaveProject (or rather I'm Nave! 🛸)
-
+## Visitors or Curiosities of my profile
+<p align="left"><img src="https://profile-counter.glitch.me/hibrunofilho/count.svg" alt="visitor badge"/></p>
+(Thanks chris111 tips!)
 
 - 🖥 I'm going to use this GitHub account to post my Hackintosh projects
 - My Hackintosh config:
