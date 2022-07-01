@@ -8,7 +8,7 @@
 - My Hackintosh config:
 - Processor: Xeon E5-2670v3 2,3GHz (12/24)
 - Motherboard: Huananzhi F8 X99
-- Memory: Fury DDR4 8GB 2666MHz 8x
+- Memory: Fury DDR4 8GB 2666MHz 12x
 - Video Card: Radeon RX570
 - Power Supply: EVGA 600W
 - WaterCooler: Cooler Master ML240L v2 RGB
